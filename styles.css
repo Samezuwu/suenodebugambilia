@@ -1,0 +1,125 @@
+ h3 {
+                   text-align:center; 
+                    font-size:36px;
+                    font-family: 'Athelas', regular;
+                }
+ p {
+                   text-align:justify;
+                    font-size:20px;
+                    font-family: 'Athelas', regular;
+                }
+               #apDiv1 {
+                   width: 100%;
+                   height: 22px;
+                   background-color: #eec6df;
+                   text-align: center;
+                   padding:10;
+                   font-size: 19px;
+                   font-family: 'IM Fell Double Pica', regular;  
+               }
+           h1 {
+                display: flex;
+                justify-content: center;
+               text-align: center;
+               font-size:36px;
+               font-family: 'Badger Valley', regular; 
+               }
+    .usuario{  
+            height: 50px;
+        }
+               
+            .menu{    
+                   display:inline-block;
+                   padding: 0px 0px;
+                   width: 50%;
+                   height: 46px;
+                   background-color: #eec6df;
+                    text-align:center; 
+                    padding-top:20;
+                align-content: center
+                }
+            .contacto {    
+                   display:inline-block;
+                   padding: 0px 0px;
+                   width: 22%;
+                   height: 46px;
+                   background-color: #eec6df;
+                    text-align:center; 
+                    padding-top:20;
+                }
+            
+               a {
+                    text-align:center; 
+                    font-size:22px;
+                    font-family: 'IM Fell Double Pica', regular; 
+               }
+               #menu {
+                    width: 47%;
+            }
+               .i1 .i2 #i3 {
+                   background-color: #red;
+                   display:inline;
+                   }
+.imagenr { width: 184px;
+                   height: 141px;}
+.imagenc  { width: 582px;
+                   height: 450px;}
+form {
+  width: 300px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+}
+
+.iniciosesion {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.enmedio {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+.iniciosesionboton {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #eec6df;
+ 
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.iniciosesionboton:hover {
+  background-color: #eec6df;
+}
+
+.boton {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #eec6df;
+ 
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+    align-content: center;
+}
+
+
+.imagend  { width: 383px;
+                   height: 298px;}
